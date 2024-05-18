@@ -5,7 +5,7 @@ Key Components
 
 1.API for Exchange Rates:
 
-Using a reliable API service to get real-time exchange rates using ExchangeRate-API.
+ A reliable API service to get real-time exchange rates using ExchangeRate-API.
 
 2.Python Libraries:
 
