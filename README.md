@@ -4,6 +4,7 @@ Objective - The aim of this project  is to convert the one currency rate into ot
 Key Components
 
 1.API for Exchange Rates:
+
 Using a reliable API service to get real-time exchange rates using ExchangeRate-API.
 
 2.Python Libraries:
