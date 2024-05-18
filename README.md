@@ -7,6 +7,9 @@ Key Components
 Using a reliable API service to get real-time exchange rates using ExchangeRate-API.
 
 2.Python Libraries:
+
 Requests: To fetch data from the API.
+
 Tkinter: For creating a graphical user interface (optional).
+
 JSON: To handle the response data from the API.
