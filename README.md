@@ -2,9 +2,15 @@
 Objective - The aim of this project  is to convert the one currency rate into other currency rates using the latest exchange rates.This project combines API integration, basic Python programming, and optionally, GUI development to create a practical and useful application.
 
 Key Components
+
 API for Exchange Rates:
+
 Using a reliable API service to get real-time exchange rates using ExchangeRate-API.
+
 Python Libraries:
+
 Requests: To fetch data from the API.
+
 Tkinter: For creating a graphical user interface (optional).
+
 JSON: To handle the response data from the API.
