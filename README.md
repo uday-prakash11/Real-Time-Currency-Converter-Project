@@ -11,6 +11,6 @@ Key Components
 
 Requests: To fetch data from the API.
 
-Tkinter: For creating a graphical user interface (optional).
+Tkinter: For creating a graphical user interface .
 
 JSON: To handle the response data from the API.
